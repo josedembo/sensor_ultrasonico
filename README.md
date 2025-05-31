@@ -6,7 +6,7 @@ Este é o repositório do projeto final da disciplina de Microcontroladores e DS
 * Integrantes do Grupo
     - José Pedro Daniel Dembo
     - Binhanfisana João Ialá
-    - Estrela Marculino
+    - Estrela José Marculino
 * Dispositivo desenvolvido: **Sensor Ultrasonico para deteção de objetos adaptável para diferenetes** como:
   - Auxílio na locomoção de pessoas dificientes visuais
   - Deteção de animais predadores ou animais indesejáveis em fazendas ou perto de criação de animais
