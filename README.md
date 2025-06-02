@@ -16,5 +16,7 @@ Este é o repositório do projeto final da disciplina de Microcontroladores e DS
 A imagem a seguir ilusta os componentes do dispositivo assim como as respectivas ligações
 ![Circuito_sensor_radar](https://raw.githubusercontent.com/josedembo/sensor_ultrasonico/refs/heads/main/imagens/Projeto%20detector%20de%20objetos%20-%20radar.png)
 
+## Video de Simulação
+[![Simulação protótipo](https://img.youtube.com/vi/L00Aipl8m_I/0.jpg)](https://www.youtube.com/watch?v=L00Aipl8m_I)
 ## Referência
 [Arduino Radar Project](https://howtomechatronics.com/projects/arduino-radar-project/#h-source-codes)
